@@ -4,7 +4,7 @@
 	text-align: center;
 	border: 3px solid #000000;
 	
-}
+	}
 
 h1{
 	text-align: left;
@@ -24,11 +24,12 @@ h1{
 	
     padding: 20px;
     margin: 20px;
+	}
 
 .text{
 	margin: 10px;
 	text-align: justify;
-}
+	}
 
 
 hr{
@@ -36,4 +37,3 @@ hr{
     background-color: black;
     height: 2px;
    }
-  
